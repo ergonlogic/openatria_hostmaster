@@ -3,3 +3,5 @@ description = The OpenAtria sub-profile of Hostmaster.
 core = 6.x
 
 base = hostmaster
+
+dependencies[] = blog
