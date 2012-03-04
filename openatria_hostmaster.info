@@ -2,6 +2,8 @@ name = OpenAtria Hostmaster
 description = The OpenAtria sub-profile of Hostmaster.
 core = 6.x
 
+theme = eldir
+
 base = hostmaster
 
 dependencies[] = blog
